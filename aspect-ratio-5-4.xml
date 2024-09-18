@@ -1,0 +1,36 @@
+<!-- 
+5:4 aspect ratio
+-->
+<theme>
+
+	<!--
+	///
+	System View
+	///
+	-->
+	<view name="system">
+		<carousel name="systemcarousel">
+			<itemSize>0.3000 0.25</itemSize>
+			<maxItemCount>3</maxItemCount>
+			<horizontalOffset>-0.225</horizontalOffset>
+		</carousel>
+	</view>
+	
+	<variant name="gamelist-grid-large,gamelist-grid-large-classic,gamelist-grid-large-video,gamelist-grid-titlescreen-large,gamelist-grid-titlescreen-large-classic,gamelist-grid-titlescreen-large-video">
+		<view name="gamelist">
+			<grid name="game-grid">
+				<itemSize>0.4444 0.3347</itemSize>
+				<itemSpacing>0.0444 0.0555</itemSpacing>
+			</grid>
+		</view>
+	</variant>
+	
+	<variant name="gamelist-grid-small,gamelist-grid-small-classic,gamelist-grid-small-video,gamelist-grid-titlescreen-small,gamelist-grid-titlescreen-small-classic,gamelist-grid-titlescreen-small-video">
+		<view name="gamelist">
+			<grid name="game-grid">
+				<itemSize>0.2815 0.2046</itemSize>
+				<itemSpacing>0.0444 0.0555</itemSpacing>
+			</grid>
+		</view>
+	</variant>	
+</theme>

@@ -1,0 +1,68 @@
+<theme>
+   <variant name="gamelist-elementflix,gamelist-elementflix-classic,gamelist-elementflix-video">
+      <aspectRatio name="1:1">
+         <view name="gamelist">
+            <carousel name="game-carousel">
+               <itemSize>0.3140 0.4</itemSize>
+               <maxItemCount>2.8341</maxItemCount>
+            </carousel>
+         </view>
+      </aspectRatio>
+	  <aspectRatio name="5:4">
+         <view name="gamelist">
+            <carousel name="game-carousel">
+               <itemSize>0.2512 0.4</itemSize>
+               <maxItemCount>3.5427</maxItemCount>
+            </carousel>
+         </view>
+      </aspectRatio>
+	  <aspectRatio name="4:3">
+         <view name="gamelist">
+            <carousel name="game-carousel">
+               <itemSize>0.2355 0.4</itemSize>
+               <maxItemCount>3.7788</maxItemCount>
+            </carousel>
+         </view>
+      </aspectRatio>
+	  <aspectRatio name="3:2">
+         <view name="gamelist">
+            <carousel name="game-carousel">
+               <itemSize>0.2093 0.4</itemSize>
+               <maxItemCount>4.2512</maxItemCount>
+            </carousel>
+         </view>
+      </aspectRatio>
+	  <aspectRatio name="16:10">
+         <view name="gamelist">
+            <carousel name="game-carousel">
+               <itemSize>0.1962 0.4</itemSize>
+               <maxItemCount>4.5346</maxItemCount>
+            </carousel>
+         </view>
+      </aspectRatio>
+      <aspectRatio name="16:9">
+         <view name="gamelist">
+            <carousel name="game-carousel">
+               <itemSize>0.1766 0.4</itemSize>
+               <maxItemCount>5.0384</maxItemCount>
+            </carousel>
+         </view>
+      </aspectRatio>
+	  <aspectRatio name="19.5:9">
+         <view name="gamelist">
+            <carousel name="game-carousel">
+               <itemSize>0.1449 0.4</itemSize>
+               <maxItemCount>6.1406</maxItemCount>
+            </carousel>
+         </view>
+      </aspectRatio>
+	 <aspectRatio name="21:9">
+         <view name="gamelist">
+            <carousel name="game-carousel">
+               <itemSize>0.1346 0.4</itemSize>
+               <maxItemCount>6.6130</maxItemCount>
+            </carousel>
+         </view>
+      </aspectRatio>
+   </variant>
+</theme>

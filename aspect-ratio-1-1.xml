@@ -1,0 +1,37 @@
+<!-- 
+1:1 aspect ratio
+-->
+<theme>
+	<view name="system,gamelist">
+		<helpsystem name="help">
+			<fontSize>0.0355</fontSize>
+			<fontSizeDimmed>0.0355</fontSizeDimmed>
+		</helpsystem>
+	</view>
+	
+	<view name="system">
+		<carousel name="systemcarousel">
+			<itemSize>0.3750 0.25</itemSize>
+			<maxItemCount>2.4</maxItemCount>
+			<horizontalOffset>-0.165</horizontalOffset>
+		</carousel>
+	</view>
+	
+	<variant name="gamelist-grid-large,gamelist-grid-large-classic,gamelist-grid-large-video,gamelist-grid-titlescreen-large,gamelist-grid-titlescreen-large-classic,gamelist-grid-titlescreen-large-video">
+		<view name="gamelist">
+			<grid name="game-grid">
+				<itemSize>0.4389 0.3347</itemSize>
+				<itemSpacing>0.0555 0.0555</itemSpacing>
+			</grid>
+		</view>
+	</variant>
+	
+	<variant name="gamelist-grid-small,gamelist-grid-small-classic,gamelist-grid-small-video,gamelist-grid-titlescreen-small,gamelist-grid-titlescreen-small-classic,gamelist-grid-titlescreen-small-video">
+		<view name="gamelist">
+			<grid name="game-grid">
+				<itemSize>0.2741 0.2046</itemSize>
+				<itemSpacing>0.0555 0.0555</itemSpacing>
+			</grid>
+		</view>
+	</variant>
+</theme>

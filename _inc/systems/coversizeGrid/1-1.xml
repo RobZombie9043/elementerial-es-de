@@ -1,0 +1,68 @@
+<theme>
+   <variant name="gamelist-grid,gamelist-grid-video">
+      <aspectRatio name="1:1">
+         <view name="gamelist">
+            <grid name="game-grid">
+               <itemSize>0.3452 0.3452</itemSize>
+               <itemSpacing>0.2429 0.0346</itemSpacing>
+            </grid>
+         </view>
+      </aspectRatio>
+	  <aspectRatio name="5:4">
+         <view name="gamelist">
+            <grid name="game-grid">
+               <itemSize>0.2761 0.3452</itemSize>
+               <itemSpacing>0.0525 0.0346</itemSpacing>
+            </grid>
+         </view>
+      </aspectRatio>
+	  <aspectRatio name="4:3">
+         <view name="gamelist">
+            <grid name="game-grid">
+               <itemSize>0.2589 0.3452</itemSize>
+               <itemSpacing>0.0783 0.0346</itemSpacing>
+            </grid>
+         </view>
+      </aspectRatio>
+	  <aspectRatio name="3:2">
+         <view name="gamelist">
+            <grid name="game-grid">
+               <itemSize>0.2301 0.3452</itemSize>
+               <itemSpacing>0.1215 0.0346</itemSpacing>
+            </grid>
+         </view>
+      </aspectRatio>
+	  <aspectRatio name="16:10">
+         <view name="gamelist">
+            <grid name="game-grid">
+               <itemSize>0.2157 0.3452</itemSize>
+               <itemSpacing>0.0235 0.0346</itemSpacing>
+            </grid>
+         </view>
+      </aspectRatio>
+      <aspectRatio name="16:9">
+         <view name="gamelist">
+            <grid name="game-grid">
+               <itemSize>0.1941 0.3452</itemSize>
+               <itemSpacing>0.0523 0.0346</itemSpacing>
+            </grid>
+         </view>
+      </aspectRatio>
+	  <aspectRatio name="19.5:9">
+         <view name="gamelist">
+            <grid name="game-grid">
+               <itemSize>0.1593 0.3452</itemSize>
+               <itemSpacing>0.0342 0.0346</itemSpacing>
+            </grid>
+         </view>
+      </aspectRatio>
+	 <aspectRatio name="21:9">
+         <view name="gamelist">
+            <grid name="game-grid">
+               <itemSize>0.1479 0.3452</itemSize>
+               <itemSpacing>0.0484 0.0346</itemSpacing>
+            </grid>
+         </view>
+      </aspectRatio>
+   </variant>
+</theme>

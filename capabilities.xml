@@ -1,0 +1,256 @@
+<themeCapabilities>
+   
+	<themeName>Elementerial</themeName>
+   
+	<!--
+	///
+	Language
+	///
+	<language>en_US</language>
+    <language>en_GB</language>
+    <language>es_ES</language>
+    <language>fr_FR</language>
+    <language>it_IT</language>
+    <language>pt_BR</language>
+    <language>ro_RO</language>
+    <language>sv_SE</language>
+	-->
+	
+	<!--
+	///
+	Aspect Ratios
+	///
+	-->
+	<aspectRatio>1:1</aspectRatio>
+	<aspectRatio>5:4</aspectRatio>
+	<aspectRatio>4:3</aspectRatio>
+	<aspectRatio>3:2</aspectRatio>
+	<aspectRatio>16:10</aspectRatio>
+	<aspectRatio>16:9</aspectRatio>
+	<aspectRatio>19.5:9</aspectRatio>
+	<aspectRatio>21:9</aspectRatio>
+	
+	<!--
+	///
+	Font Size
+	///
+	-->
+	<fontSize>small</fontSize>
+	<fontSize>medium</fontSize>
+	<fontSize>large</fontSize>
+	
+	<!--
+	///
+	Color Schemes
+	///
+	-->
+	<colorScheme name="strawberry-dark">
+        <label>Strawberry - Dark</label>
+    </colorScheme>
+	<colorScheme name="strawberry-light">
+        <label>Strawberry - Light</label>
+    </colorScheme>
+	<colorScheme name="orange-dark">
+        <label>Orange - Dark</label>
+    </colorScheme>
+	<colorScheme name="orange-light">
+        <label>Orange - Light</label>
+    </colorScheme>
+	<colorScheme name="banana-dark">
+        <label>Banana - Dark</label>
+    </colorScheme>
+	<colorScheme name="banana-light">
+        <label>Banana - Light</label>
+    </colorScheme>
+	<colorScheme name="lime-dark">
+        <label>Lime - Dark</label>
+    </colorScheme>
+	<colorScheme name="lime-light">
+        <label>Lime - Light</label>
+    </colorScheme>
+	<colorScheme name="mint-dark">
+        <label>Mint - Dark</label>
+    </colorScheme>
+	<colorScheme name="mint-light">
+        <label>Mint - Light</label>
+    </colorScheme>
+	<colorScheme name="blueberry-dark">
+        <label>Blueberry - Dark</label>
+    </colorScheme>
+	<colorScheme name="blueberry-light">
+        <label>Blueberry - Light</label>
+    </colorScheme>
+	<colorScheme name="grape-dark">
+        <label>Grape - Dark</label>
+    </colorScheme>
+	<colorScheme name="grape-light">
+        <label>Grape - Light</label>
+    </colorScheme>
+	<colorScheme name="bubblegum-dark">
+        <label>Bubblegum - Dark</label>
+    </colorScheme>
+	<colorScheme name="bubblegum-light">
+        <label>Bubblegum - Light</label>
+    </colorScheme>
+	<colorScheme name="cocoa-dark">
+        <label>Cocoa - Dark</label>
+    </colorScheme>
+	<colorScheme name="cocoa-light">
+        <label>Cocoa - Light</label>
+    </colorScheme>
+	<colorScheme name="slate-dark">
+        <label>Slate - Dark</label>
+    </colorScheme>
+	<colorScheme name="slate-light">
+        <label>Slate - Light</label>
+    </colorScheme>
+	<colorScheme name="snes-dark">
+		<label>SNES - Dark</label>
+    </colorScheme>
+	<colorScheme name="snes-light">
+		<label>SNES - Light</label>
+    </colorScheme>
+	<colorScheme name="gameboy-dark">
+		<label>Gameboy - Dark</label>
+    </colorScheme>
+	<colorScheme name="gameboy-light">
+		<label>Gameboy - Light</label>
+    </colorScheme>
+	<colorScheme name="pikachu-dark">
+		<label>Pikachu Edition - Dark</label>
+    </colorScheme>
+	<colorScheme name="pikachu-light">
+		<label>Pikachu Edition - Light</label>
+    </colorScheme>
+	<colorScheme name="redfruits-dark">
+		<label>Red Fruits - Dark</label>
+    </colorScheme>
+	<colorScheme name="redfruits-light">
+		<label>Red Fruits - Light</label>
+    </colorScheme>
+	<!--
+	///
+	Transitions
+	///
+	-->
+	<transitions name="transitions">
+		<label>transitions</label>
+		<selectable>false</selectable>
+		<systemToSystem>instant</systemToSystem>
+		<systemToGamelist>instant</systemToGamelist>
+		<gamelistToGamelist>instant</gamelistToGamelist>
+		<gamelistToSystem>instant</gamelistToSystem>
+		<startupToSystem>fade</startupToSystem>
+		<startupToGamelist>fade</startupToGamelist>
+	</transitions>
+	<suppressTransitionProfiles>
+		<entry>builtin-instant</entry>
+		<entry>builtin-slide</entry>
+		<entry>builtin-fade</entry>
+	</suppressTransitionProfiles>
+   
+	<!--
+	///
+	Variants
+	///
+	-->
+	<variant name="gamelist-textlist-basic">
+		<label>[Modern] List: Basic View</label>
+		<selectable>true</selectable>
+	</variant>
+	<variant name="gamelist-textlist-video">
+		<label>[Modern] List: Video View</label>
+		<selectable>true</selectable>
+	</variant>
+	<variant name="gamelist-textlist-detailed">
+		<label>[Modern] List: Detailed View</label>
+		<selectable>true</selectable>
+	</variant>
+	<variant name="gamelist-elementflix">
+		<label>[Modern] Elementflix View</label>
+		<selectable>true</selectable>
+	</variant>
+	<variant name="gamelist-grid-small">
+		<label>[Modern] Grid View with Covers (Small)</label>
+		<selectable>true</selectable>
+	</variant>
+	<variant name="gamelist-grid-large">
+		<label>[Modern] Grid View with Covers (Large)</label>
+		<selectable>true</selectable>
+	</variant>
+	<variant name="gamelist-grid-titlescreen-small">
+		<label>[Modern] Grid View with Title Screen (Small)</label>
+		<selectable>true</selectable>
+	</variant>
+	<variant name="gamelist-grid-titlescreen-large">
+		<label>[Modern] Grid View with Title Screen (Large)</label>
+		<selectable>true</selectable>
+	</variant>
+	
+	<variant name="gamelist-textlist-basic-classic">
+		<label>[Classic] List: Basic View</label>
+		<selectable>true</selectable>
+	</variant>
+	<variant name="gamelist-textlist-video-classic">
+		<label>[Classic] List: Video View</label>
+		<selectable>true</selectable>
+	</variant>
+	<variant name="gamelist-textlist-detailed-classic">
+		<label>[Classic]List: Detailed View</label>
+		<selectable>true</selectable>
+	</variant>
+	<variant name="gamelist-elementflix-classic">
+		<label>[Classic] Elementflix View</label>
+		<selectable>true</selectable>
+	</variant>
+	<variant name="gamelist-grid-small-classic">
+		<label>[Classic] Grid View with Covers (Small)</label>
+		<selectable>true</selectable>
+	</variant>
+	<variant name="gamelist-grid-large-classic">
+		<label>[Classic] Grid View with Covers (Large)</label>
+		<selectable>true</selectable>
+	</variant>
+	<variant name="gamelist-grid-titlescreen-small-classic">
+		<label>[Classic] Grid View with Title Screen (Small)</label>
+		<selectable>true</selectable>
+	</variant>
+	<variant name="gamelist-grid-titlescreen-large-classic">
+		<label>[Classic] Grid View with Title Screen (Large)</label>
+		<selectable>true</selectable>
+	</variant>
+	
+	<variant name="gamelist-textlist-basic-video">
+		<label>[Video] List: Basic View</label>
+		<selectable>true</selectable>
+	</variant>
+	<variant name="gamelist-textlist-video-video">
+		<label>[Video] List: Video View</label>
+		<selectable>true</selectable>
+	</variant>
+	<variant name="gamelist-textlist-detailed-video">
+		<label>[Video] List: Detailed View</label>
+		<selectable>true</selectable>
+	</variant>
+	<variant name="gamelist-elementflix-video">
+		<label>[Video] Elementflix View</label>
+		<selectable>true</selectable>
+	</variant>
+	<variant name="gamelist-grid-small-video">
+		<label>[Video] Grid View with Covers (Small)</label>
+		<selectable>true</selectable>
+	</variant>
+	<variant name="gamelist-grid-large-video">
+		<label>[Video] Grid View with Covers (Large)</label>
+		<selectable>true</selectable>
+	</variant>
+	<variant name="gamelist-grid-titlescreen-small-video">
+		<label>[Video] Grid View with Title Screen (Small)</label>
+		<selectable>true</selectable>
+	</variant>
+	<variant name="gamelist-grid-titlescreen-large-video">
+		<label>[Video] Grid View with Title Screen (Large)</label>
+		<selectable>true</selectable>
+	</variant>
+	
+</themeCapabilities>

@@ -196,7 +196,7 @@
 		<selectable>true</selectable>
 	</variant>
 	<variant name="gamelist-textlist-detailed-classic">
-		<label>[Classic]List: Detailed View</label>
+		<label>[Classic] List: Detailed View</label>
 		<selectable>true</selectable>
 	</variant>
 	<variant name="gamelist-elementflix-classic">

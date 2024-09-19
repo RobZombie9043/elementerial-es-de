@@ -3,17 +3,26 @@
 -->
 <theme>
 
-	<!--
-	///
-	System View
-	///
-	-->
+	<variant name="gamelist-textlist-basic,gamelist-textlist-video,gamelist-textlist-detailed,gamelist-elementflix, gamelist-grid-small,gamelist-grid-large,gamelist-grid-titlescreen-small,gamelist-grid-titlescreen-large,gamelist-textlist-basic-classic,gamelist-textlist-video-classic,gamelist-textlist-detailed-classic,gamelist-elementflix-classic, gamelist-grid-small-classic,gamelist-grid-large-classic,gamelist-grid-titlescreen-small-classic,gamelist-grid-titlescreen-large-classic">
+		<view name="system">
+			<image name="cover_list">
+				<pos>0 -0.1</pos>
+			</image>
+		</view>
+	</variant>
+	
 	<view name="system">
 		<carousel name="systemcarousel">
 			<itemSize>0.3000 0.25</itemSize>
 			<maxItemCount>3</maxItemCount>
 			<horizontalOffset>-0.225</horizontalOffset>
 		</carousel>
+	</view>
+	
+	<view name="gamelist">
+		<image name="cover_list">
+			<pos>0 -0.1</pos>
+		</image>
 	</view>
 	
 	<variant name="gamelist-grid-large,gamelist-grid-large-classic,gamelist-grid-large-video,gamelist-grid-titlescreen-large,gamelist-grid-titlescreen-large-classic,gamelist-grid-titlescreen-large-video">

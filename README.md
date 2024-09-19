@@ -2,17 +2,23 @@
 A port of the [Elementerial](https://github.com/mluizvitor/es-theme-elementerial) theme by [mluizvitor](https://github.com/mluizvitor/es-theme-elementerial/commits?author=mluizvitor) for ES-DE. It's based on Android TV's interface using some principles from Material Design with the addition of ElementaryOS color palette.
 
 ## **Preview**
-| System View | List: Video View | List: Detailed View |
-|----|----|----|
-| ![1](https://github.com/user-attachments/assets/10a90c42-154d-4b14-8bd8-074c017c3911) |![2](https://github.com/user-attachments/assets/d5892491-4c57-4bb3-b988-bc626cd93636) | ![3](https://github.com/user-attachments/assets/a4ed1a68-cc88-4da5-8cae-516aaa60fa61) |
+| System View (Classic) | System View (Modern) | 
+|----|----|
+| ![Screenshot_20240919-163050](https://github.com/user-attachments/assets/53e949cb-d897-4545-820b-2d79a02fbd5a) | ![Screenshot_20240919-163414](https://github.com/user-attachments/assets/4ae8b136-dd5e-42fe-aa79-9fbe39bd84dd) |
 
+| List: Basic View | List: Video View | List: Detailed View |
+|----|----|----|
+| ![Screenshot_20240919-163122](https://github.com/user-attachments/assets/96169a01-c88b-4f7d-b170-e2abbf40540e) | ![Screenshot_20240919-163147](https://github.com/user-attachments/assets/9d02858f-5444-4167-9ee8-97cafe904b7d) | ![Screenshot_20240919-164040](https://github.com/user-attachments/assets/0a716055-46ea-403d-9c83-ecc2cfdc630f) |
+
+| Elementflix View | Grid View with Title Screen (Small) | Grid View with Box Art (Large) |
+|----|----|----|
+| ![Screenshot_20240919-163316](https://github.com/user-attachments/assets/db111aab-a1e3-4bbc-905c-265eef1f0609) | ![Screenshot_20240919-163356](https://github.com/user-attachments/assets/dfb99f12-becf-4367-8bdc-e8695f68fd13) | ![Screenshot_20240919-164412](https://github.com/user-attachments/assets/dca398ea-1919-404c-822c-effe2b037490) |
 
 ## **Changes made**
 - Any changes from the original theme were largely unintentional or due to differences in theme engines
 - Additional aspect ratios created
 - Due to no composite element support, the grid view variants were modified to suit box art or titlescreen artwork
 - System logos for additional systems supported by ES-DE were created by me 
-
 
 ## **Configuration Options**
 
@@ -59,13 +65,6 @@ A port of the [Elementerial](https://github.com/mluizvitor/es-theme-elementerial
    - `19.5:9`
    - `21:9`
 
-
 ## **Acknowledgements**
 Based on original [Elementerial](https://github.com/mluizvitor/es-theme-elementerial) theme by [mluizvitor](https://github.com/mluizvitor/es-theme-elementerial/commits?author=mluizvitor)
 [Inter Font](https://github.com/rsms/inter) by [rsms](https://github.com/rsms)
-
-
-### To-do
-- [ ] This readme
-- [ ] Implement coversize framework for 'grid with covers' variants
-- [ ] Complete original elementerial artwork set for all systems ... maybe

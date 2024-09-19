@@ -45,88 +45,89 @@
 	///
 	-->
 	<colorScheme name="strawberry-dark">
-        <label>Strawberry - Dark</label>
-    </colorScheme>
-	<colorScheme name="strawberry-light">
-        <label>Strawberry - Light</label>
+        <label>Dark - Strawberry</label>
     </colorScheme>
 	<colorScheme name="orange-dark">
-        <label>Orange - Dark</label>
-    </colorScheme>
-	<colorScheme name="orange-light">
-        <label>Orange - Light</label>
+        <label>Dark - Orange</label>
     </colorScheme>
 	<colorScheme name="banana-dark">
-        <label>Banana - Dark</label>
-    </colorScheme>
-	<colorScheme name="banana-light">
-        <label>Banana - Light</label>
+        <label>Dark - Banana</label>
     </colorScheme>
 	<colorScheme name="lime-dark">
-        <label>Lime - Dark</label>
-    </colorScheme>
-	<colorScheme name="lime-light">
-        <label>Lime - Light</label>
+        <label>Dark - Lime</label>
     </colorScheme>
 	<colorScheme name="mint-dark">
-        <label>Mint - Dark</label>
-    </colorScheme>
-	<colorScheme name="mint-light">
-        <label>Mint - Light</label>
+        <label>Dark - Mint</label>
     </colorScheme>
 	<colorScheme name="blueberry-dark">
-        <label>Blueberry - Dark</label>
-    </colorScheme>
-	<colorScheme name="blueberry-light">
-        <label>Blueberry - Light</label>
+        <label>Dark - Blueberry</label>
     </colorScheme>
 	<colorScheme name="grape-dark">
-        <label>Grape - Dark</label>
-    </colorScheme>
-	<colorScheme name="grape-light">
-        <label>Grape - Light</label>
+        <label>Dark - Grape</label>
     </colorScheme>
 	<colorScheme name="bubblegum-dark">
-        <label>Bubblegum - Dark</label>
-    </colorScheme>
-	<colorScheme name="bubblegum-light">
-        <label>Bubblegum - Light</label>
+        <label>Dark - Bubblegum</label>
     </colorScheme>
 	<colorScheme name="cocoa-dark">
-        <label>Cocoa - Dark</label>
-    </colorScheme>
-	<colorScheme name="cocoa-light">
-        <label>Cocoa - Light</label>
+        <label>Dark - Cocoa</label>
     </colorScheme>
 	<colorScheme name="slate-dark">
-        <label>Slate - Dark</label>
-    </colorScheme>
-	<colorScheme name="slate-light">
-        <label>Slate - Light</label>
+        <label>Dark - Slate</label>
     </colorScheme>
 	<colorScheme name="snes-dark">
-		<label>SNES - Dark</label>
-    </colorScheme>
-	<colorScheme name="snes-light">
-		<label>SNES - Light</label>
+		<label>Dark - SNES</label>
     </colorScheme>
 	<colorScheme name="gameboy-dark">
-		<label>Gameboy - Dark</label>
-    </colorScheme>
-	<colorScheme name="gameboy-light">
-		<label>Gameboy - Light</label>
+		<label>Dark - Gameboy</label>
     </colorScheme>
 	<colorScheme name="pikachu-dark">
-		<label>Pikachu Edition - Dark</label>
-    </colorScheme>
-	<colorScheme name="pikachu-light">
-		<label>Pikachu Edition - Light</label>
+		<label>Dark - Pikachu Edition</label>
     </colorScheme>
 	<colorScheme name="redfruits-dark">
-		<label>Red Fruits - Dark</label>
+		<label>Dark - Red Fruits</label>
+    </colorScheme>
+	
+	<colorScheme name="strawberry-light">
+        <label>Light - Strawberry</label>
+    </colorScheme>
+	<colorScheme name="orange-light">
+        <label>Light - Orange</label>
+    </colorScheme>
+	<colorScheme name="banana-light">
+        <label>Light - Banana</label>
+    </colorScheme>
+	<colorScheme name="lime-light">
+        <label>Light - Lime</label>
+    </colorScheme>
+	<colorScheme name="mint-light">
+        <label>Light - Mint</label>
+    </colorScheme>
+	<colorScheme name="blueberry-light">
+        <label>Light - Blueberry</label>
+    </colorScheme>
+	<colorScheme name="grape-light">
+        <label>Light - Grape</label>
+    </colorScheme>
+	<colorScheme name="bubblegum-light">
+        <label>Light - Bubblegum</label>
+    </colorScheme>
+	<colorScheme name="cocoa-light">
+        <label>Light - Cocoa</label>
+    </colorScheme>
+	<colorScheme name="slate-light">
+        <label>Light - Slate</label>
+    </colorScheme>
+	<colorScheme name="snes-light">
+		<label>Light - SNES</label>
+    </colorScheme>
+	<colorScheme name="gameboy-light">
+		<label>Light - Gameboy</label>
+    </colorScheme>
+	<colorScheme name="pikachu-light">
+		<label>Light - Pikachu Edition</label>
     </colorScheme>
 	<colorScheme name="redfruits-light">
-		<label>Red Fruits - Light</label>
+		<label>Light - Red Fruits</label>
     </colorScheme>
 	<!--
 	///

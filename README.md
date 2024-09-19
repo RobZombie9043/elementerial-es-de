@@ -66,5 +66,5 @@ A port of the [Elementerial](https://github.com/mluizvitor/es-theme-elementerial
    - `21:9`
 
 ## **Acknowledgements**
-Based on original [Elementerial](https://github.com/mluizvitor/es-theme-elementerial) theme by [mluizvitor](https://github.com/mluizvitor/es-theme-elementerial/commits?author=mluizvitor)
-[Inter Font](https://github.com/rsms/inter) by [rsms](https://github.com/rsms)
+- Based on original [Elementerial](https://github.com/mluizvitor/es-theme-elementerial) theme by [mluizvitor](https://github.com/mluizvitor/es-theme-elementerial/commits?author=mluizvitor)
+- [Inter Font](https://github.com/rsms/inter) by [rsms](https://github.com/rsms)

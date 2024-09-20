@@ -530,7 +530,7 @@ license:      	creative commons CC-BY-NC-SA
 				<itemScale>1.1</itemScale>
 				<imageCornerRadius>0.01</imageCornerRadius> 
 				<scaleInwards>true</scaleInwards>
-				<unfocusedItemDimming>0.8</unfocusedItemDimming>
+				<unfocusedItemDimming>0.7</unfocusedItemDimming>
 				<fontSize>${fontSizeCaption}</fontSize>
 				<textColor>${fgColor}</textColor>
 				<textRelativeScale>1</textRelativeScale>

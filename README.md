@@ -34,7 +34,7 @@ A port of the [Elementerial](https://github.com/mluizvitor/es-theme-elementerial
    - `Grid View with Title Screen (Small)`
    - `Grid View with Title Screen (Large)`
 
- - `Theme Color Scheme` - sets the theme color scheme adjusting the background image color. Each color scheme has a Light and DArk variant.
+ - `Theme Color Scheme` - sets the theme color scheme adjusting the background image color. Each color scheme has a Light and Dark variant.
    - `Strawberry`
    - `Orange`
    - `Banana`

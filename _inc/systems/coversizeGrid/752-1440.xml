@@ -19,48 +19,48 @@
 	  <aspectRatio name="4:3">
          <view name="gamelist">
             <grid name="game-grid">
-               <itemSize>0.1300 0.3320</itemSize>
-               <itemSpacing>0.0038 0.0609</itemSpacing>
+               <itemSize>0.1204 0.3320</itemSize>
+               <itemSpacing>0.015 0.0609</itemSpacing>
             </grid>
          </view>
       </aspectRatio>
 	  <aspectRatio name="3:2">
          <view name="gamelist">
             <grid name="game-grid">
-               <itemSize>0.1155 0.3320</itemSize>
-               <itemSpacing>0.0012 0.0609</itemSpacing>
+               <itemSize>0.1035 0.3320</itemSize>
+               <itemSpacing>0.015 0.0609</itemSpacing>
             </grid>
          </view>
       </aspectRatio>
 	  <aspectRatio name="16:10">
          <view name="gamelist">
             <grid name="game-grid">
-               <itemSize>0.1083 0.3320</itemSize>
-               <itemSpacing>0.0094 0.0609</itemSpacing>
+               <itemSize>0.1035 0.3320</itemSize>
+               <itemSpacing>0.015 0.0609</itemSpacing>
             </grid>
          </view>
       </aspectRatio>
       <aspectRatio name="16:9">
          <view name="gamelist">
             <grid name="game-grid">
-               <itemSize>0.0975 0.3320</itemSize>
-               <itemSpacing>0.0069 0.0609</itemSpacing>
+               <itemSize>0.0903 0.3320</itemSize>
+               <itemSpacing>0.015 0.0609</itemSpacing>
             </grid>
          </view>
       </aspectRatio>
 	  <aspectRatio name="19.5:9">
          <view name="gamelist">
             <grid name="game-grid">
-               <itemSize>0.0800 0.3320</itemSize>
-               <itemSpacing>0.0053 0.0609</itemSpacing>
+               <itemSize>0.0712 0.3320</itemSize>
+               <itemSpacing>0.015 0.0609</itemSpacing>
             </grid>
          </view>
       </aspectRatio>
 	 <aspectRatio name="21:9">
          <view name="gamelist">
             <grid name="game-grid">
-               <itemSize>0.0743 0.3320</itemSize>
-               <itemSpacing>0.0037 0.0609</itemSpacing>
+               <itemSize>0.064 0.3320</itemSize>
+               <itemSpacing>0.015 0.0609</itemSpacing>
             </grid>
          </view>
       </aspectRatio>

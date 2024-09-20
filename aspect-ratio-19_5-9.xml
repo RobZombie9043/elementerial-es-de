@@ -31,7 +31,7 @@
 		</image>
 	</view>
 	
-	<variant name="gamelist-grid-large,gamelist-grid-large-classic,gamelist-grid-large-video,gamelist-grid-titlescreen-large,gamelist-grid-titlescreen-large-classic,gamelist-grid-titlescreen-large-video">
+	<variant name="gamelist-grid-titlescreen-large,gamelist-grid-titlescreen-large-classic,gamelist-grid-titlescreen-large-video">
 		<view name="gamelist">
 			<grid name="game-grid">
 				<itemSize>0.2141 0.3347</itemSize>
@@ -40,7 +40,7 @@
 		</view>
 	</variant>
 	
-	<variant name="gamelist-grid-small,gamelist-grid-small-classic,gamelist-grid-small-video,gamelist-grid-titlescreen-small,gamelist-grid-titlescreen-small-classic,gamelist-grid-titlescreen-small-video">
+	<variant name="gamelist-grid-titlescreen-small,gamelist-grid-titlescreen-small-classic,gamelist-grid-titlescreen-small-video">
 		<view name="gamelist">
 			<grid name="game-grid">
 				<itemSize>0.1661 0.2046</itemSize>

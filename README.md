@@ -10,14 +10,14 @@ A port of the [Elementerial](https://github.com/mluizvitor/es-theme-elementerial
 |----|----|----|
 | ![Screenshot_20240919-163122](https://github.com/user-attachments/assets/96169a01-c88b-4f7d-b170-e2abbf40540e) | ![Screenshot_20240919-163147](https://github.com/user-attachments/assets/9d02858f-5444-4167-9ee8-97cafe904b7d) | ![Screenshot_20240919-164040](https://github.com/user-attachments/assets/0a716055-46ea-403d-9c83-ecc2cfdc630f) |
 
-| Elementflix View | Grid View with Title Screen (Small) | Grid View with Box Art (Large) |
+| Elementflix View | Grid View (Small) | Grid View (Large) |
 |----|----|----|
-| ![Screenshot_20240919-163316](https://github.com/user-attachments/assets/db111aab-a1e3-4bbc-905c-265eef1f0609) | ![Screenshot_20240919-163356](https://github.com/user-attachments/assets/dfb99f12-becf-4367-8bdc-e8695f68fd13) | ![Screenshot_20240919-164412](https://github.com/user-attachments/assets/dca398ea-1919-404c-822c-effe2b037490) |
+| ![Screenshot_20240919-163316](https://github.com/user-attachments/assets/db111aab-a1e3-4bbc-905c-265eef1f0609) | ![Screenshot_20240922-221400](https://github.com/user-attachments/assets/e373f38b-dc2c-4cf5-a3fe-a714101d7eb7) | ![Screenshot_20240919-164412](https://github.com/user-attachments/assets/dca398ea-1919-404c-822c-effe2b037490) |
 
 ## **Changes made**
 - Any changes from the original theme were largely unintentional or due to differences in theme engines
 - Additional aspect ratios created
-- Due to no composite element support, the grid view variants were modified to suit box art or titlescreen artwork
+- Due to no composite element support, the grid view variants were modified to suit box art
 - System logos for additional systems supported by ES-DE were created by me 
 
 ## **Configuration Options**
@@ -29,8 +29,8 @@ A port of the [Elementerial](https://github.com/mluizvitor/es-theme-elementerial
    - `List: Video View`
    - `List: Detailed View`
    - `Elementflix View`
-   - `Grid View with Box Art (Small)`
-   - `Grid View with Box Art (Large)`
+   - `Grid View (Small)`
+   - `Grid View (Large)`
 
  - `Theme Color Scheme` - sets the theme color scheme adjusting the background image color. Each color scheme has a Light and Dark variant.
    - `Strawberry`

@@ -179,14 +179,6 @@
 		<label>[Modern] Grid View with Box Art (Large)</label>
 		<selectable>true</selectable>
 	</variant>
-	<variant name="gamelist-grid-titlescreen-small">
-		<label>[Modern] Grid View with Title Screen (Small)</label>
-		<selectable>true</selectable>
-	</variant>
-	<variant name="gamelist-grid-titlescreen-large">
-		<label>[Modern] Grid View with Title Screen (Large)</label>
-		<selectable>true</selectable>
-	</variant>
 	
 	<variant name="gamelist-textlist-basic-classic">
 		<label>[Classic] List: Basic View</label>
@@ -212,15 +204,7 @@
 		<label>[Classic] Grid View with Box Art (Large)</label>
 		<selectable>true</selectable>
 	</variant>
-	<variant name="gamelist-grid-titlescreen-small-classic">
-		<label>[Classic] Grid View with Title Screen (Small)</label>
-		<selectable>true</selectable>
-	</variant>
-	<variant name="gamelist-grid-titlescreen-large-classic">
-		<label>[Classic] Grid View with Title Screen (Large)</label>
-		<selectable>true</selectable>
-	</variant>
-	
+
 	<variant name="gamelist-textlist-basic-video">
 		<label>[Video] List: Basic View</label>
 		<selectable>true</selectable>
@@ -243,14 +227,6 @@
 	</variant>
 	<variant name="gamelist-grid-large-video">
 		<label>[Video] Grid View with Box Art (Large)</label>
-		<selectable>true</selectable>
-	</variant>
-	<variant name="gamelist-grid-titlescreen-small-video">
-		<label>[Video] Grid View with Title Screen (Small)</label>
-		<selectable>true</selectable>
-	</variant>
-	<variant name="gamelist-grid-titlescreen-large-video">
-		<label>[Video] Grid View with Title Screen (Large)</label>
 		<selectable>true</selectable>
 	</variant>
 

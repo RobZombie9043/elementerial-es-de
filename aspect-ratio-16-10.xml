@@ -15,22 +15,4 @@
 			<horizontalOffset>-0.29</horizontalOffset>
 		</carousel>
 	</view>
-	
-	<variant name="gamelist-grid-titlescreen-large,gamelist-grid-titlescreen-large-classic,gamelist-grid-titlescreen-large-video">
-		<view name="gamelist">
-			<grid name="game-grid">
-				<itemSize>0.2879 0.3347</itemSize>
-				<itemSpacing>0.0347 0.0555</itemSpacing>
-			</grid>
-		</view>
-	</variant>
-	
-	<variant name="gamelist-grid-titlescreen-small,gamelist-grid-titlescreen-small-classic,gamelist-grid-titlescreen-small-video">
-		<view name="gamelist">
-			<grid name="game-grid">
-				<itemSize>0.2073 0.2046</itemSize>
-				<itemSpacing>0.0347 0.0555</itemSpacing>
-			</grid>
-		</view>
-	</variant>	
 </theme>

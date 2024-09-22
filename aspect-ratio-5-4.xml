@@ -3,7 +3,7 @@
 -->
 <theme>
 
-	<variant name="gamelist-textlist-basic,gamelist-textlist-video,gamelist-textlist-detailed,gamelist-elementflix, gamelist-grid-small,gamelist-grid-large,gamelist-grid-titlescreen-small,gamelist-grid-titlescreen-large,gamelist-textlist-basic-classic,gamelist-textlist-video-classic,gamelist-textlist-detailed-classic,gamelist-elementflix-classic, gamelist-grid-small-classic,gamelist-grid-large-classic,gamelist-grid-titlescreen-small-classic,gamelist-grid-titlescreen-large-classic">
+	<variant name="gamelist-textlist-basic,gamelist-textlist-video,gamelist-textlist-detailed,gamelist-elementflix, gamelist-grid-small,gamelist-grid-large,gamelist-textlist-basic-classic,gamelist-textlist-video-classic,gamelist-textlist-detailed-classic,gamelist-elementflix-classic, gamelist-grid-small-classic,gamelist-grid-large-classic">
 		<view name="system">
 			<image name="cover_list">
 				<pos>0 -0.1</pos>
@@ -24,22 +24,5 @@
 			<pos>0 -0.1</pos>
 		</image>
 	</view>
-	
-	<variant name="gamelist-grid-titlescreen-large,gamelist-grid-titlescreen-large-classic,gamelist-grid-titlescreen-large-video">
-		<view name="gamelist">
-			<grid name="game-grid">
-				<itemSize>0.4444 0.3347</itemSize>
-				<itemSpacing>0.0444 0.0555</itemSpacing>
-			</grid>
-		</view>
-	</variant>
-	
-	<variant name="gamelist-grid-titlescreen-small,gamelist-grid-titlescreen-small-classic,gamelist-grid-titlescreen-small-video">
-		<view name="gamelist">
-			<grid name="game-grid">
-				<itemSize>0.2815 0.2046</itemSize>
-				<itemSpacing>0.0444 0.0555</itemSpacing>
-			</grid>
-		</view>
-	</variant>	
+
 </theme>

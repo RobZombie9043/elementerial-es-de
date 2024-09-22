@@ -76,17 +76,27 @@ license:      	creative commons CC-BY-NC-SA
 			<unfocusedItemDimming>0.8</unfocusedItemDimming>
 			<zIndex>3</zIndex>
 		</carousel>
-		<text name="systemName">
+		<text name="systemName, autoCollectionName, customCollectionName">
 			<origin>0 1</origin>
 			<pos>0.083333 0.41</pos>
 			<size>0.8333333 0</size>
 			<lineSpacing>1.1</lineSpacing>
 			<fontSize>${fontSizeH1}</fontSize> 
 			<fontPath>${fontBold}</fontPath>
-			<systemdata>fullname</systemdata>
-			<letterCase>none</letterCase>
 			<color>${fgColor}</color>
 		</text>
+		<text name="systemName">
+            <text>${system.fullName.noCollections}</text>
+            <letterCase>none</letterCase>
+        </text>
+        <text name="autoCollectionName">
+            <text>${system.fullName.autoCollections}</text>
+            <letterCase>capitalize</letterCase>
+        </text>
+        <text name="customCollectionName">
+            <text>${system.fullName.customCollections}</text>
+            <letterCase>none</letterCase>
+        </text>
 		<text name="systemInfo">
 			<origin>0 0</origin>
 			<pos>0.083333 0.41</pos>

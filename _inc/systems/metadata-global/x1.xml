@@ -21,5 +21,6 @@ Sharp continues to sell desktop PC/TV combos in Japan through its Internet Aquos
       <systemColorPalette2>4A90CB</systemColorPalette2>
       <systemColorPalette3>C1C3D1</systemColorPalette3>
       <systemColorPalette4>28333D</systemColorPalette4>
+	  <classicCropPos>0</classicCropPos>
    </variables>
 </theme>

@@ -13,5 +13,6 @@
       <systemColorPalette2>E70000</systemColorPalette2>
       <systemColorPalette3>FFFFFF</systemColorPalette3>
       <systemColorPalette4>0B5ED8</systemColorPalette4>
+	  <classicCropPos>0.3</classicCropPos>
    </variables>
 </theme>

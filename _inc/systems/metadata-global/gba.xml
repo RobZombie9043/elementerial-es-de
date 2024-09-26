@@ -13,5 +13,6 @@
       <systemColorPalette2>280FBE</systemColorPalette2>
       <systemColorPalette3>BCBCBC</systemColorPalette3>
       <systemColorPalette4>212121</systemColorPalette4>
+	  <classicCropPos>0.2</classicCropPos>
    </variables>
 </theme>

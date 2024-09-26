@@ -13,5 +13,6 @@
       <systemColorPalette2>89918F</systemColorPalette2>
       <systemColorPalette3>DC3114</systemColorPalette3>
       <systemColorPalette4>F8D239</systemColorPalette4>
+	  <classicCropPos>0.1</classicCropPos>
    </variables>
 </theme>

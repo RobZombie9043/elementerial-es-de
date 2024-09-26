@@ -8,7 +8,7 @@
 	System View
 	///
 	-->
-	<variant name="gamelist-textlist-basic,gamelist-textlist-video,gamelist-textlist-detailed,gamelist-elementflix, gamelist-grid-small,gamelist-grid-large,gamelist-textlist-basic-classic,gamelist-textlist-video-classic,gamelist-textlist-detailed-classic,gamelist-elementflix-classic, gamelist-grid-small-classic,gamelist-grid-large-classic">
+	<variant name="gamelist-textlist-basic,gamelist-textlist-video,gamelist-textlist-detailed,gamelist-elementflix, gamelist-grid-small,gamelist-grid-large">
 		<view name="system">
 			<image name="cover_list">
 				<cropSize>1 1</cropSize>
@@ -23,10 +23,19 @@
 		</carousel>
 	</view>
 	
-	<view name="gamelist">
-		<image name="cover_list">
-			<cropSize>1 1</cropSize>
-		</image>
-	</view>
+	<variant name="gamelist-textlist-basic">
+		<view name="gamelist">
+			<image name="cover_list">
+				<cropSize>1 1</cropSize>
+			</image>
+		</view>
+	</variant>
+	<variant name="gamelist-textlist-basic-video">
+		<view name="gamelist">
+			<image name="cover_list">
+				<cropSize>1 1</cropSize>
+			</image>
+		</view>
+	</variant>
 	
 </theme>

@@ -17,5 +17,6 @@ The two cartridge slots are designed to share data between the games. The cartri
       <systemColorPalette2>EDDFDE</systemColorPalette2>
       <systemColorPalette3>A0C0CF</systemColorPalette3>
       <systemColorPalette4>1E2881</systemColorPalette4>
+	  <classicCropPos>0.35</classicCropPos>
    </variables>
 </theme>

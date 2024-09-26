@@ -17,5 +17,6 @@ The PC had a substantial influence on the personal computer market. The specific
       <systemColorPalette2>FFFFFF</systemColorPalette2>
       <systemColorPalette3>666870</systemColorPalette3>
       <systemColorPalette4>201D1D</systemColorPalette4>
+	  <classicCropPos>0.1</classicCropPos>
    </variables>
 </theme>

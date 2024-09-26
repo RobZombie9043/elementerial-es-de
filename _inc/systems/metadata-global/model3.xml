@@ -13,5 +13,6 @@
       <systemColorPalette2>FFFFFF</systemColorPalette2>
       <systemColorPalette3>000000</systemColorPalette3>
       <systemColorPalette4>4C9EFB</systemColorPalette4>
+	  <classicCropPos>0</classicCropPos>
    </variables>
 </theme>

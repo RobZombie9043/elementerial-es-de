@@ -18,6 +18,7 @@ The series sold a combined of 43.4 million units worldwide.</systemDescription>
       <systemColorPalette2>C2904A</systemColorPalette2>
       <systemColorPalette3>853641</systemColorPalette3>
       <systemColorPalette4>4C301C</systemColorPalette4>
+	  <classicCropPos>0.1</classicCropPos>
    </variables>
 </theme>
 

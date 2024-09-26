@@ -21,5 +21,6 @@ Both parts (the C++ engine and the Lua scripts of your quest) communicate throug
       <systemColorPalette2>CD2943</systemColorPalette2>
       <systemColorPalette3>FFDF68</systemColorPalette3>
       <systemColorPalette4>647A54</systemColorPalette4>
+	  <classicCropPos>0</classicCropPos>
    </variables>
 </theme>

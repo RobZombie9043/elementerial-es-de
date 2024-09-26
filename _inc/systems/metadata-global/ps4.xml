@@ -13,5 +13,6 @@
       <systemColorPalette2>5B6171</systemColorPalette2>
       <systemColorPalette3>0123A1</systemColorPalette3>
       <systemColorPalette4>EBECEE</systemColorPalette4>
+	  <classicCropPos>0.15</classicCropPos>
    </variables>
 </theme>

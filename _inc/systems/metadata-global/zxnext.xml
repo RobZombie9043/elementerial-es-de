@@ -13,5 +13,6 @@
       <systemColorPalette2>EDBA01</systemColorPalette2>
       <systemColorPalette3>009C37</systemColorPalette3>
       <systemColorPalette4>02559C</systemColorPalette4>
+	  <classicCropPos>0</classicCropPos>
    </variables>
 </theme>

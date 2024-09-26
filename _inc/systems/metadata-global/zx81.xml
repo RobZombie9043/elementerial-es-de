@@ -17,5 +17,6 @@ The ZX81 could be bought by mail order preassembled or, for a lower price, in ki
       <systemColorPalette2>403E4B</systemColorPalette2>
       <systemColorPalette3>D2CECD</systemColorPalette3>
       <systemColorPalette4>191222</systemColorPalette4>
+	  <classicCropPos>0.1</classicCropPos>
    </variables>
 </theme>

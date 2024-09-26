@@ -9,5 +9,6 @@
       <systemHardwareType>Folder</systemHardwareType>
       <systemCoverSize>1-1</systemCoverSize>
       <systemColor>5A9035</systemColor>
+	  <classicCropPos>0.2</classicCropPos>
    </variables>
 </theme>

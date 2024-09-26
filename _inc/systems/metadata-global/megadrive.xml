@@ -9,5 +9,6 @@
       <systemHardwareType>Console</systemHardwareType>
       <systemCoverSize>243-340</systemCoverSize>
       <systemColor>0C7BCB</systemColor>
+	  <classicCropPos>0.375</classicCropPos>
    </variables>
 </theme>

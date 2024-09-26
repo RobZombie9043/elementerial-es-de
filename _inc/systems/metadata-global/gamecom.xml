@@ -16,5 +16,6 @@ It was the first video game console to include a touchscreen and the first handh
       <systemColorPalette2>293039</systemColorPalette2>
       <systemColorPalette3>AE2B2B</systemColorPalette3>
       <systemColorPalette4>186DA4</systemColorPalette4>
+	  <classicCropPos>0</classicCropPos>
    </variables>
 </theme>

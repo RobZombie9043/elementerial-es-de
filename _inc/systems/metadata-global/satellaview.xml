@@ -13,5 +13,6 @@
       <systemColorPalette2>CD2943</systemColorPalette2>
       <systemColorPalette3>FFDF68</systemColorPalette3>
       <systemColorPalette4>647A54</systemColorPalette4>
+	  <classicCropPos>0.1</classicCropPos>
    </variables>
 </theme>

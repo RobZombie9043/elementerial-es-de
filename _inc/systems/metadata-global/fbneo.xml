@@ -17,5 +17,6 @@ The reason for the separation of the older branch, FB Alpha, and new spin-off br
       <systemColorPalette2>CF8A61</systemColorPalette2>
       <systemColorPalette3>231F20</systemColorPalette3>
       <systemColorPalette4>FFFFFF</systemColorPalette4>
+	  <classicCropPos>0.05</classicCropPos>
    </variables>
 </theme>

@@ -127,7 +127,8 @@ license:      	creative commons CC-BY-NC-SA
 			<image name="cover_list">
 				<origin>0 0</origin>
 				<pos>0 0</pos>
-				<cropSize>1 0.7</cropSize>
+				<cropSize>1 0.5</cropSize>
+				<cropPos>0.5 ${classicCropPos}</cropPos>
 				<path>./_inc/systems/artwork (classic)/${system.theme}.webp</path>
 				<opacity>${bgOpacity}</opacity>
 				<zIndex>1</zIndex>
@@ -178,7 +179,6 @@ license:      	creative commons CC-BY-NC-SA
 			<image name="cover_list">
 				<origin>0 0</origin>
 				<pos>0 0</pos>
-				<cropSize>1 0.7</cropSize>
 				<opacity>${bgOpacity}</opacity>
 				<zIndex>1</zIndex>
 			</image>
@@ -213,6 +213,7 @@ license:      	creative commons CC-BY-NC-SA
 		<view name="gamelist">
 			<image name="cover_list">
 				<path>./_inc/systems/artwork (modern)/${system.theme}.webp</path>
+				<cropSize>1 0.7</cropSize>
 			</image>
 		</view>
 	</variant>
@@ -220,6 +221,8 @@ license:      	creative commons CC-BY-NC-SA
 		<view name="gamelist">
 			<image name="cover_list">
 				<path>./_inc/systems/artwork (classic)/${system.theme}.webp</path>
+				<cropSize>1 0.5</cropSize>
+				<cropPos>0.5 ${classicCropPos}</cropPos>
 			</image>
 		</view>
 	</variant>
@@ -227,6 +230,7 @@ license:      	creative commons CC-BY-NC-SA
 		<view name="gamelist">
 			<image name="cover_list">
 				<imageType>fanart,screenshot</imageType>
+				<cropSize>1 0.7</cropSize>
 			</image>
 		</view>
 	</variant>
@@ -393,6 +397,7 @@ license:      	creative commons CC-BY-NC-SA
 		<view name="gamelist">
 			<image name="cover_list">
 				<path>./_inc/systems/artwork (classic)/${system.theme}.webp</path>
+				<cropPos>0.5 ${classicCropPos}</cropPos>
 			</image>
 		</view>
 	</variant>
@@ -569,6 +574,7 @@ license:      	creative commons CC-BY-NC-SA
 		<view name="gamelist">
 			<image name="cover_list">
 				<path>./_inc/systems/artwork (classic)/${system.theme}.webp</path>
+				<cropPos>0.5 ${classicCropPos}</cropPos>
 			</image>
 		</view>
 	</variant>

@@ -8,5 +8,6 @@
       <systemReleaseDateFormated>Various</systemReleaseDateFormated>
       <systemHardwareType>Collection</systemHardwareType>
       <systemCoverSize>1-1</systemCoverSize>
+	  <classicCropPos>0.1</classicCropPos>
    </variables>
 </theme>

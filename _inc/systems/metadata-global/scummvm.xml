@@ -13,5 +13,6 @@
       <systemColorPalette2>F17C38</systemColorPalette2>
       <systemColorPalette3>EFEDE3</systemColorPalette3>
       <systemColorPalette4>95C93E</systemColorPalette4>
+	  <classicCropPos>0.15</classicCropPos>
    </variables>
 </theme>

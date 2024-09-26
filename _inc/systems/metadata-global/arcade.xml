@@ -13,5 +13,6 @@
       <systemColorPalette2>FCCD0A</systemColorPalette2>
       <systemColorPalette3>032EC0</systemColorPalette3>
       <systemColorPalette4>459FD0</systemColorPalette4>
+	  <classicCropPos>0</classicCropPos>
    </variables>
 </theme>

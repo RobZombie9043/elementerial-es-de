@@ -13,5 +13,6 @@
       <systemColorPalette2>800000</systemColorPalette2>
       <systemColorPalette3>FF0000</systemColorPalette3>
       <systemColorPalette4>303030</systemColorPalette4>
+	  <classicCropPos>0.65</classicCropPos>
    </variables>
 </theme>

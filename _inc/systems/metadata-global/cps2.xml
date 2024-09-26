@@ -13,5 +13,6 @@
       <systemColorPalette2>FAFAFA</systemColorPalette2>
       <systemColorPalette3>FFCB04</systemColorPalette3>
       <systemColorPalette4>111111</systemColorPalette4>
+	  <classicCropPos>0.1</classicCropPos>
    </variables>
 </theme>

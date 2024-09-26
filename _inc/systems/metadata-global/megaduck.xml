@@ -13,5 +13,6 @@
       <systemColorPalette2>EAEAEA</systemColorPalette2>
       <systemColorPalette3>51BABB</systemColorPalette3>
       <systemColorPalette4>819B73</systemColorPalette4>
+	  <classicCropPos>0.125</classicCropPos>
    </variables>
 </theme>

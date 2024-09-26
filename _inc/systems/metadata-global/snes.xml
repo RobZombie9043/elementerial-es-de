@@ -13,5 +13,6 @@
       <systemColorPalette2>BA2318</systemColorPalette2>
       <systemColorPalette3>0A2A8D</systemColorPalette3>
       <systemColorPalette4>007544</systemColorPalette4>
+	  <classicCropPos>0.55</classicCropPos>
    </variables>
 </theme>

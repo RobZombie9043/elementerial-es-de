@@ -15,5 +15,6 @@ The "FM" part of the name means "Fujitsu Micro" like their earlier products, whi
       <systemColorPalette2>009971</systemColorPalette2>
       <systemColorPalette3>606875</systemColorPalette3>
       <systemColorPalette4>151619</systemColorPalette4>
+	  <classicCropPos>0.05</classicCropPos>
    </variables>
 </theme>

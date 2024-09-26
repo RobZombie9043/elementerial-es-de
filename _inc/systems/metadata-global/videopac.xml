@@ -17,5 +17,6 @@ In 2009, the video game website IGN named the Odyssey 2 the 21st greatest video 
       <systemColorPalette2>800000</systemColorPalette2>
       <systemColorPalette3>FF0000</systemColorPalette3>
       <systemColorPalette4>4C504E</systemColorPalette4>
+	  <classicCropPos>0.15</classicCropPos>
    </variables>
 </theme>

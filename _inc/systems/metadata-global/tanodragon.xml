@@ -13,5 +13,6 @@
       <systemColorPalette2>FBFA35</systemColorPalette2>
       <systemColorPalette3>74B719</systemColorPalette3>
       <systemColorPalette4>3262D9</systemColorPalette4>
+	  <classicCropPos>0</classicCropPos>
    </variables>
 </theme>

@@ -17,5 +17,6 @@ Some key differentiators between systems and the ability to fully utilize all ga
       <systemColorPalette2>8A6AA2</systemColorPalette2>
       <systemColorPalette3>CBCFD0</systemColorPalette3>
       <systemColorPalette4>F0973A</systemColorPalette4>
+	  <classicCropPos>0.25</classicCropPos>
    </variables>
 </theme>

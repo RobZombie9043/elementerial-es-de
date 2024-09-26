@@ -15,5 +15,6 @@ The original Macintosh is the first successful mass-market all-in-one desktop pe
       <systemColorPalette2>E19433</systemColorPalette2>
       <systemColorPalette3>009DDD</systemColorPalette3>
       <systemColorPalette4>C45152</systemColorPalette4>
+	  <classicCropPos>0.25</classicCropPos>
    </variables>
 </theme>

@@ -15,5 +15,6 @@ The console was first officially announced at E3 2005, and was released at the e
       <systemColorPalette2>1A15FF</systemColorPalette2>
       <systemColorPalette3>0095D5</systemColorPalette3>
       <systemColorPalette4>3DD3C8</systemColorPalette4>
+	  <classicCropPos>0.15</classicCropPos>
    </variables>
 </theme>

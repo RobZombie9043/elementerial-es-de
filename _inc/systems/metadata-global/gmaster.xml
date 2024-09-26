@@ -16,5 +16,6 @@ The design was much like the Game Gear with a D-Pad and two action buttons, alth
       <systemColorPalette3>FF0000</systemColorPalette3>
       <systemColorPalette4>303030</systemColorPalette4>
 	  <classicCropPos>0.15</classicCropPos>
+	  <modernCropPos>0.1</modernCropPos>
    </variables>
 </theme>

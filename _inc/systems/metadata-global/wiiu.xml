@@ -16,5 +16,6 @@ The Wii U is the first Nintendo console to support HD graphics. The system's pri
       <systemColorPalette3>DDDCDC</systemColorPalette3>
       <systemColorPalette4>9D8354</systemColorPalette4>
 	  <classicCropPos>0.225</classicCropPos>
+	  <modernCropPos>0.225</modernCropPos>
    </variables>
 </theme>

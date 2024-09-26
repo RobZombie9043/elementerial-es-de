@@ -16,5 +16,6 @@ The first version of Windows was released on November 20, 1985, as a graphical o
       <systemColorPalette3>00B4F1</systemColorPalette3>
       <systemColorPalette4>FFC300</systemColorPalette4>
 	  <classicCropPos>0.3</classicCropPos>
+	  <modernCropPos>0.3</modernCropPos>
    </variables>
 </theme>

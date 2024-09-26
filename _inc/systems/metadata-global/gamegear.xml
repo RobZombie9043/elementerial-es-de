@@ -16,5 +16,6 @@ Though the Game Gear was rushed to market, its unique game library and price poi
       <systemColorPalette3>008200</systemColorPalette3>
       <systemColorPalette4>0000FE</systemColorPalette4>
 	  <classicCropPos>0.1</classicCropPos>
+	  <modernCropPos>0.15</modernCropPos>
    </variables>
 </theme>

@@ -9,5 +9,6 @@
       <systemHardwareType>Collection</systemHardwareType>
       <systemCoverSize>1-1</systemCoverSize>
 	  <classicCropPos>0.25</classicCropPos>
+	  <modernCropPos>0.25</modernCropPos>
    </variables>
 </theme>

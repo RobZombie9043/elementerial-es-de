@@ -18,5 +18,6 @@ The ST was sold with either Atari's color monitor or the less expensive monochro
       <systemColorPalette3>000000</systemColorPalette3>
       <systemColorPalette4>ECECEC</systemColorPalette4>
 	  <classicCropPos>0.05</classicCropPos>
+	  <modernCropPos>0.55</modernCropPos>
    </variables>
 </theme>

@@ -21,5 +21,6 @@ The only direct competition to the Famicom was Sega’s SG-1000, which the Famic
       <systemColorPalette3>C0A987</systemColorPalette3>
       <systemColorPalette4>AA1A41</systemColorPalette4>
 	  <classicCropPos>0.3</classicCropPos>
+	  <modernCropPos>0.6</modernCropPos>
    </variables>
 </theme>

@@ -16,5 +16,6 @@ It was later released as the TurboGrafx-CD in the United States in November 1989
       <systemColorPalette3>604832</systemColorPalette3>
       <systemColorPalette4>1E1C1A</systemColorPalette4>
 	  <classicCropPos>0.2</classicCropPos>
+	  <modernCropPos>0.25</modernCropPos>
    </variables>
 </theme>

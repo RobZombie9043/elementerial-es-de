@@ -14,5 +14,6 @@
       <systemColorPalette3>EFEDE3</systemColorPalette3>
       <systemColorPalette4>95C93E</systemColorPalette4>
 	  <classicCropPos>0.15</classicCropPos>
+	  <modernCropPos>0.1</modernCropPos>
    </variables>
 </theme>

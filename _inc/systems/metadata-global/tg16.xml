@@ -16,5 +16,6 @@ The TurboGrafx-16 has an 8-bit CPU, a 16-bit video color encoder, and a 16-bit v
       <systemColorPalette3>FD5A17</systemColorPalette3>
       <systemColorPalette4>D5E14D</systemColorPalette4>
 	  <classicCropPos>0.5</classicCropPos>
+	  <modernCropPos>0.2</modernCropPos>
    </variables>
 </theme>

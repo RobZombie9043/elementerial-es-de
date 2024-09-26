@@ -2,20 +2,6 @@
 3:2 aspect ratio
 -->
 <theme>
-
-	<!--
-	///
-	System View
-	///
-	-->
-	<variant name="gamelist-textlist-basic,gamelist-textlist-video,gamelist-textlist-detailed,gamelist-elementflix, gamelist-grid-small,gamelist-grid-large">
-		<view name="system">
-			<image name="cover_list">
-				<pos>0 -0.05</pos>
-			</image>
-		</view>
-	</variant>
-	
 	<view name="system">
 		<carousel name="systemcarousel">
 			<itemSize>0.2500 0.25</itemSize>
@@ -23,14 +9,7 @@
 			<horizontalOffset>-0.275</horizontalOffset>
 		</carousel>
 	</view>
-	
-	<variant name="gamelist-textlist-basic">
-		<view name="gamelist">
-			<image name="cover_list">
-				<pos>0 -0.05</pos>
-			</image>
-		</view>
-	</variant>
+
 	<variant name="gamelist-textlist-basic-video">
 		<view name="gamelist">
 			<image name="cover_list">

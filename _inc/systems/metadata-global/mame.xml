@@ -16,5 +16,6 @@ The first public MAME release was by Nicola Salmoria on 5 February 1997. It now 
       <systemColorPalette3>231F20</systemColorPalette3>
       <systemColorPalette4>FFFFFF</systemColorPalette4>
 	  <classicCropPos>0.175</classicCropPos>
+	  <modernCropPos>0.4</modernCropPos>
    </variables>
 </theme>

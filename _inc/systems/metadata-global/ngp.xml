@@ -16,5 +16,6 @@ The Neo Geo Pocket is considered to be an unsuccessful console. Lower than expec
       <systemColorPalette3>25374A</systemColorPalette3>
       <systemColorPalette4>0F1520</systemColorPalette4>
 	  <classicCropPos>0.4</classicCropPos>
+	  <modernCropPos>0.4</modernCropPos>
    </variables>
 </theme>

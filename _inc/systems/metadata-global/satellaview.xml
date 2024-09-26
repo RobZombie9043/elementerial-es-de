@@ -14,5 +14,6 @@
       <systemColorPalette3>FFDF68</systemColorPalette3>
       <systemColorPalette4>647A54</systemColorPalette4>
 	  <classicCropPos>0.1</classicCropPos>
+	  <modernCropPos>0.15</modernCropPos>
    </variables>
 </theme>

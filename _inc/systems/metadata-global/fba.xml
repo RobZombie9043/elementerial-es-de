@@ -18,5 +18,6 @@ Differentiated from other emulators by a very large number of supported systems,
       <systemColorPalette3>231F20</systemColorPalette3>
       <systemColorPalette4>FFFFFF</systemColorPalette4>
 	  <classicCropPos>0.25</classicCropPos>
+	  <modernCropPos>0.125</modernCropPos>
    </variables>
 </theme>

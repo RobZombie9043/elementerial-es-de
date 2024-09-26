@@ -16,5 +16,6 @@ The main benefit of CD technology was greater storage, which allowed for games t
       <systemColorPalette3>B2AE85</systemColorPalette3>
       <systemColorPalette4>212122</systemColorPalette4>
 	  <classicCropPos>0</classicCropPos>
+	  <modernCropPos>0.15</modernCropPos>
    </variables>
 </theme>

@@ -16,5 +16,6 @@ The Vectrex, in contrast to other video-game systems available at the time, feat
       <systemColorPalette3>11192E</systemColorPalette3>
       <systemColorPalette4>166FC1</systemColorPalette4>
 	  <classicCropPos>0.1</classicCropPos>
+	  <modernCropPos>0.275</modernCropPos>
    </variables>
 </theme>

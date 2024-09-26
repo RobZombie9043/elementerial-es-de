@@ -16,5 +16,6 @@ The brand was first introduced in the United States in November 2001, with the l
       <systemColorPalette3>534F57</systemColorPalette3>
       <systemColorPalette4>000000</systemColorPalette4>
 	  <classicCropPos>0.15</classicCropPos>
+	  <modernCropPos>0.15</modernCropPos>
    </variables>
 </theme>

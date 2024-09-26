@@ -14,5 +14,6 @@
       <systemColorPalette3>CE2027</systemColorPalette3>
       <systemColorPalette4>0F7C3E</systemColorPalette4>
 	  <classicCropPos>0.3</classicCropPos>
+	  <modernCropPos>0.15</modernCropPos>
    </variables>
 </theme>

@@ -16,5 +16,6 @@ Internally, the Plus/4 shared the same basic architecture as the lower-end Commo
       <systemColorPalette3>FD4120</systemColorPalette3>
       <systemColorPalette4>00A0C6</systemColorPalette4>
 	  <classicCropPos>0.15</classicCropPos>
+	  <modernCropPos>0.2</modernCropPos>
    </variables>
 </theme>

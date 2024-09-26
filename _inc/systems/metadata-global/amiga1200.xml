@@ -14,5 +14,6 @@
       <systemColorPalette3>F3AD2D</systemColorPalette3>
       <systemColorPalette4>ED2224</systemColorPalette4>
 	  <classicCropPos>0.5</classicCropPos>
+	  <modernCropPos>0.35</modernCropPos>
    </variables>
 </theme>

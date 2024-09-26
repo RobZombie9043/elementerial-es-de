@@ -16,5 +16,6 @@ Based on commodity personal computer hardware architecture, Type X is not a spec
       <systemColorPalette3>FF0000</systemColorPalette3>
       <systemColorPalette4>303030</systemColorPalette4>
 	  <classicCropPos>0.2</classicCropPos>
+	  <modernCropPos>0.2</modernCropPos>
    </variables>
 </theme>

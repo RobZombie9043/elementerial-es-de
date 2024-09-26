@@ -14,5 +14,6 @@
       <systemColorPalette3>EBE470</systemColorPalette3>
       <systemColorPalette4>404040</systemColorPalette4>
 	  <classicCropPos>0</classicCropPos>
+	  <modernCropPos>0.2</modernCropPos>
    </variables>
 </theme>

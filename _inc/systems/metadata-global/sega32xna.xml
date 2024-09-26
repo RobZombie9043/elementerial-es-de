@@ -16,5 +16,6 @@ Unveiled by Sega at June 1994's Consumer Electronics Show, the 32X was presented
       <systemColorPalette3>FFE607</systemColorPalette3>
       <systemColorPalette4>212122</systemColorPalette4>
 	  <classicCropPos>0.1</classicCropPos>
+	  <modernCropPos>0.225</modernCropPos>
    </variables>
 </theme>

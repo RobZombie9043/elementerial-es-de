@@ -17,5 +17,6 @@ It was marketed only for a limited time before Bally decided to exit the market.
       <systemColorPalette3>F8F6EA</systemColorPalette3>
       <systemColorPalette4>C47401</systemColorPalette4>
 	  <classicCropPos>0.2</classicCropPos>
+	  <modernCropPos>0.2</modernCropPos>
    </variables>
 </theme>

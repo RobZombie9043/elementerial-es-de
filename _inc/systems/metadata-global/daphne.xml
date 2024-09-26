@@ -14,5 +14,6 @@
       <systemColorPalette3>DC110B</systemColorPalette3>
       <systemColorPalette4>D8D3BD</systemColorPalette4>
 	  <classicCropPos>0.225</classicCropPos>
+	  <modernCropPos>0.225</modernCropPos>
    </variables>
 </theme>

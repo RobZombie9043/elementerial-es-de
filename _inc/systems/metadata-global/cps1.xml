@@ -16,5 +16,6 @@ Among the 33 titles released for the original CP System included Street Fighter 
       <systemColorPalette3>034EA2</systemColorPalette3>
       <systemColorPalette4>111111</systemColorPalette4>
 	  <classicCropPos>0.05</classicCropPos>
+	  <modernCropPos>0.1</modernCropPos>
    </variables>
 </theme>

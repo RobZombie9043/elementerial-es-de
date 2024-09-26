@@ -16,5 +16,6 @@ Developed in response to a downturn in arcades in 1982, the SG-1000 was created 
       <systemColorPalette3>D4D6C9</systemColorPalette3>
       <systemColorPalette4>1A1E21</systemColorPalette4>
 	  <classicCropPos>0</classicCropPos>
+	  <modernCropPos>0.25</modernCropPos>
    </variables>
 </theme>

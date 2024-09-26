@@ -10,5 +10,6 @@
       <systemCoverSize>243-340</systemCoverSize>
       <systemColor>0C7BCB</systemColor>
 	  <classicCropPos>0.375</classicCropPos>
+	  <modernCropPos>0.35</modernCropPos>
    </variables>
 </theme>

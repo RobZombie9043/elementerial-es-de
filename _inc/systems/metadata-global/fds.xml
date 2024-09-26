@@ -17,5 +17,6 @@ Fundamentally, the Disk System serves simply to enhance some aspects already inh
       <systemColorPalette3>3C3C3B</systemColorPalette3>
       <systemColorPalette4>F4B600</systemColorPalette4>
 	  <classicCropPos>0.05</classicCropPos>
+	  <modernCropPos>0.25</modernCropPos>
    </variables>
 </theme>

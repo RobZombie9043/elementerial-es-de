@@ -14,5 +14,6 @@
       <systemColorPalette3>FADD2F</systemColorPalette3>
       <systemColorPalette4>A4DDF0</systemColorPalette4>
 	  <classicCropPos>0.15</classicCropPos>
+	  <modernCropPos>0.15</modernCropPos>
    </variables>
 </theme>

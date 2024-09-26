@@ -16,5 +16,6 @@ Announced in 1999, the PS2 offered backward-compatibility for its predecessor's 
       <systemColorPalette3>40A9A8</systemColorPalette3>
       <systemColorPalette4>849DCA</systemColorPalette4>
 	  <classicCropPos>0.05</classicCropPos>
+	  <modernCropPos>0.175</modernCropPos>
    </variables>
 </theme>

@@ -16,5 +16,6 @@ The first model features a 10 MHz Motorola 68000 CPU (hence the name), 1 MB of R
       <systemColorPalette3>C25F7F</systemColorPalette3>
       <systemColorPalette4>41BC83</systemColorPalette4>
 	  <classicCropPos>0.15</classicCropPos>
+	  <modernCropPos>0.2</modernCropPos>
    </variables>
 </theme>

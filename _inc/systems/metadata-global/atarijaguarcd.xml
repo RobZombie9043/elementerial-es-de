@@ -14,5 +14,6 @@
       <systemColorPalette3>FDC007</systemColorPalette3>
       <systemColorPalette4>232326</systemColorPalette4>
 	  <classicCropPos>0.7</classicCropPos>
+	  <modernCropPos>0.55</modernCropPos>
    </variables>
 </theme>

@@ -14,5 +14,6 @@
       <systemColorPalette3>DBD9D4</systemColorPalette3>
       <systemColorPalette4>C02520</systemColorPalette4>
 	  <classicCropPos>0.1</classicCropPos>
+	  <modernCropPos>0.1</modernCropPos>
    </variables>
 </theme>

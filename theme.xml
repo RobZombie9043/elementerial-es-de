@@ -345,7 +345,7 @@ license:      	creative commons CC-BY-NC-SA
 			<image name="md_marquee">
 				<origin>0.5 0.5</origin>
 				<pos>0.733333 0.25</pos>
-				<maxSize>0.2 0.175</maxSize>
+				<maxSize>0.25 0.175</maxSize>
 				<imageType>marquee</imageType>
 				<zIndex>4</zIndex>
 			</image>

@@ -1,14 +1,30 @@
 <theme>
-   <variables>
-      <systemName>Now Playing</systemName>
-      <systemDescription>Play and complete the games on your backlog.</systemDescription>
-      <systemManufacturer>Various</systemManufacturer>
-      <systemReleaseYear>Various</systemReleaseYear>
-      <systemReleaseDate>Various</systemReleaseDate>
-      <systemReleaseDateFormated>Various</systemReleaseDateFormated>
-      <systemHardwareType>Collection</systemHardwareType>
-      <systemCoverSize>1-1</systemCoverSize>
-	  <classicCropPos>0.15</classicCropPos>
-	  <modernCropPos>0.45</modernCropPos>
-   </variables>
+    <variables>
+        <systemName>Now Playing</systemName>
+        <systemDescription>Play and complete the games on your backlog.</systemDescription>
+        <systemManufacturer>Various</systemManufacturer>
+        <systemReleaseYear>Various</systemReleaseYear>
+        <systemReleaseDate>Various</systemReleaseDate>
+        <systemReleaseDateFormated>Various</systemReleaseDateFormated>
+        <systemHardwareType>Collection</systemHardwareType>
+        <systemCoverSize>1-1</systemCoverSize>
+    </variables>
+    <language name="sv_SE">
+        <variables>
+            <systemManufacturer>Diverse</systemManufacturer>
+            <systemReleaseYear>Diverse</systemReleaseYear>
+            <systemReleaseDate>Diverse</systemReleaseDate>
+            <systemReleaseDateFormated>Diverse</systemReleaseDateFormated>
+            <systemHardwareType>Samling</systemHardwareType>
+        </variables>
+    </language>
+    <language name="es_ES">
+        <variables>
+            <systemManufacturer>Varios</systemManufacturer>
+            <systemReleaseYear>Varios</systemReleaseYear>
+            <systemReleaseDate>Varios</systemReleaseDate>
+            <systemReleaseDateFormated>Varios</systemReleaseDateFormated>
+            <systemHardwareType>Coleccion</systemHardwareType>
+        </variables>
+    </language>
 </theme>

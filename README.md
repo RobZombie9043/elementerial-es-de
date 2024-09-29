@@ -4,15 +4,15 @@ A port of the [Elementerial](https://github.com/mluizvitor/es-theme-elementerial
 ## **Preview**
 | System View (Classic) | System View (Modern) | 
 |----|----|
-| ![Screenshot_20240919-163050](https://github.com/user-attachments/assets/53e949cb-d897-4545-820b-2d79a02fbd5a) | ![Screenshot_20240919-163414](https://github.com/user-attachments/assets/4ae8b136-dd5e-42fe-aa79-9fbe39bd84dd) |
+| ![Screenshot_20240929-230241](https://github.com/user-attachments/assets/c28a4787-44a5-4605-8373-fc6079dcfbe3) | ![Screenshot_20240929-230118](https://github.com/user-attachments/assets/92087554-278e-42b4-ad88-83f971dfc36e) |
 
 | List: Basic View | List: Video View | List: Detailed View |
 |----|----|----|
-| ![Screenshot_20240919-163122](https://github.com/user-attachments/assets/96169a01-c88b-4f7d-b170-e2abbf40540e) | ![Screenshot_20240919-163147](https://github.com/user-attachments/assets/9d02858f-5444-4167-9ee8-97cafe904b7d) | ![Screenshot_20240919-164040](https://github.com/user-attachments/assets/0a716055-46ea-403d-9c83-ecc2cfdc630f) |
+| ![Screenshot_20240929-230445](https://github.com/user-attachments/assets/dbf8356b-774a-4ad0-84f2-5ad1f9bd4a01) | ![Screenshot_20240929-230518](https://github.com/user-attachments/assets/4671d6e8-44fc-4518-ac63-6dee5c353738) | ![Screenshot_20240919-164040](https://github.com/user-attachments/assets/0a716055-46ea-403d-9c83-ecc2cfdc630f) |
 
 | Elementflix View | Grid View (Small) | Grid View (Large) |
 |----|----|----|
-| ![Screenshot_20240919-163316](https://github.com/user-attachments/assets/db111aab-a1e3-4bbc-905c-265eef1f0609) | ![Screenshot_20240922-221400](https://github.com/user-attachments/assets/e373f38b-dc2c-4cf5-a3fe-a714101d7eb7) | ![Screenshot_20240919-164412](https://github.com/user-attachments/assets/dca398ea-1919-404c-822c-effe2b037490) |
+| ![Screenshot_20240919-163316](https://github.com/user-attachments/assets/db111aab-a1e3-4bbc-905c-265eef1f0609) | ![Screenshot_20240929-230652](https://github.com/user-attachments/assets/09e5f776-a45a-4710-a868-44a9f5c0a246) | ![Screenshot_20240929-230605](https://github.com/user-attachments/assets/d71380f4-53cb-42d9-b886-4628a90ee846) |
 
 ## **Changes made**
 - Any changes from the original theme were largely unintentional or due to differences in theme engines

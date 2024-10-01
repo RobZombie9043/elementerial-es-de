@@ -1,5 +1,5 @@
 <theme>
-   <variant name="gamelist-elementflix,gamelist-elementflix-classic,gamelist-elementflix-video">
+   <variant name="gamelist-elementflix,gamelist-elementflix-no-marquee,gamelist-elementflix-classic,gamelist-elementflix-classic-no-marquee,gamelist-elementflix-video,gamelist-elementflix-video-no-marquee">
       <aspectRatio name="1:1">
          <view name="gamelist">
             <carousel name="game-carousel">

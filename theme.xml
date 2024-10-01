@@ -419,7 +419,7 @@ license:      	creative commons CC-BY-NC-SA
 	Gamelist View: Elementflix
 	///
 	-->
-	<variant name="gamelist-elementflix,gamelist-elementflix-classic,gamelist-elementflix-video">
+	<variant name="gamelist-elementflix,gamelist-elementflix-no-marquee,gamelist-elementflix-classic,gamelist-elementflix-classic-no-marquee,gamelist-elementflix-video,gamelist-elementflix-video-no-marquee">
 		<include>./_inc/systems/coversize/${systemCoverSize}.xml</include>
 		<view name="gamelist">
 			<image name="background">
@@ -448,13 +448,6 @@ license:      	creative commons CC-BY-NC-SA
 				<color>${bgColor}</color>
 				<zIndex>2</zIndex>
 			</image>
-			<image name="md_marquee">
-				<origin>0.5 0.5</origin>
-				<pos>0.233333333 0.125</pos>
-				<maxSize>0.4 0.225</maxSize>
-				<imageType>marquee</imageType>
-				<zIndex>3</zIndex>
-			</image>
 			<text name="md_description">
 				<origin>0 0</origin>
 				<pos>0.033333333 0.25</pos>      
@@ -471,6 +464,7 @@ license:      	creative commons CC-BY-NC-SA
 				<fontSize>${fontSizeH3}</fontSize> 
 				<fontPath>${fontBold}</fontPath>
 				<metadata>systemFullname</metadata>
+				<metadataElement>true</metadataElement>
 				<letterCase>none</letterCase>
 				<color>${fgColor}</color>
 			</text>
@@ -492,7 +486,35 @@ license:      	creative commons CC-BY-NC-SA
 			</carousel>
 		</view>
 	</variant>
-		
+	
+	<variant name="gamelist-elementflix,gamelist-elementflix-classic,gamelist-elementflix-video">
+		<view name="gamelist">
+			<image name="md_marquee">
+				<origin>0.5 0.5</origin>
+				<pos>0.233333333 0.125</pos>
+				<maxSize>0.4 0.225</maxSize>
+				<imageType>marquee</imageType>
+				<zIndex>3</zIndex>
+			</image>
+		</view>
+	</variant>	
+	
+	<variant name="gamelist-elementflix-no-marquee,gamelist-elementflix-classic-no-marquee,gamelist-elementflix-video-no-marquee">
+		<view name="gamelist">
+			<text name="md_marquee">
+				<origin>0.5 0.5</origin>
+				<pos>0.233333333 0.125</pos>
+				<size>0.4 0.225</size>
+				<metadata>name</metadata>
+				<fontSize>${fontSizeH2}</fontSize> 
+				<fontPath>${fontBold}</fontPath>
+				<lineSpacing>1.1</lineSpacing>
+				<color>${fgColor}</color>
+				<zIndex>3</zIndex>
+			</text>
+		</view>
+	</variant>	
+	
 	<!--
 	///
 	Gamelist View: Grid

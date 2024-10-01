@@ -170,6 +170,15 @@
 	<variant name="gamelist-elementflix">
 		<label>[Modern] Elementflix View</label>
 		<selectable>true</selectable>
+		<override>
+			<trigger>noMedia</trigger>
+			<mediaType>marquee</mediaType>
+			<useVariant>gamelist-elementflix-no-marquee</useVariant>
+		</override>
+	</variant>
+	<variant name="gamelist-elementflix-no-marquee">
+		<label>[Modern] Elementflix View - No Marquee</label>
+		<selectable>false</selectable>
 	</variant>
 	<variant name="gamelist-grid-small">
 		<label>[Modern] Grid View (Small)</label>
@@ -195,6 +204,15 @@
 	<variant name="gamelist-elementflix-classic">
 		<label>[Classic] Elementflix View</label>
 		<selectable>true</selectable>
+		<override>
+			<trigger>noMedia</trigger>
+			<mediaType>marquee</mediaType>
+			<useVariant>gamelist-elementflix-classic-no-marquee</useVariant>
+		</override>
+	</variant>
+	<variant name="gamelist-elementflix-classic-no-marquee">
+		<label>[Classic] Elementflix View - No Marquee</label>
+		<selectable>false</selectable>
 	</variant>
 	<variant name="gamelist-grid-small-classic">
 		<label>[Classic] Grid View (Small)</label>
@@ -220,6 +238,15 @@
 	<variant name="gamelist-elementflix-video">
 		<label>[Video] Elementflix View</label>
 		<selectable>true</selectable>
+		<override>
+			<trigger>noMedia</trigger>
+			<mediaType>marquee</mediaType>
+			<useVariant>gamelist-elementflix-video-no-marquee</useVariant>
+		</override>
+	</variant>
+	<variant name="gamelist-elementflix-video-no-marquee">
+		<label>[Video] Elementflix View - No Marquee</label>
+		<selectable>false</selectable>
 	</variant>
 	<variant name="gamelist-grid-small-video">
 		<label>[Video] Grid View (Small)</label>

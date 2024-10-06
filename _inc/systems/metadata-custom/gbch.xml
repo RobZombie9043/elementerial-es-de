@@ -13,7 +13,7 @@
       <systemColorPalette2>2D308E</systemColorPalette2>
       <systemColorPalette3>00B3DE</systemColorPalette3>
       <systemColorPalette4>7642B6</systemColorPalette4>
-	  <classicCropPos>0.4</classicCropPos>
-	  <modernCropPos>0.15</modernCropPos>
+	  <classicCropPos>0.25</classicCropPos>
+	  <modernCropPos>0.35</modernCropPos>
    </variables>
 </theme>

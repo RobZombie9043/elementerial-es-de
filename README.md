@@ -67,8 +67,8 @@ A port of the [Elementerial](https://github.com/mluizvitor/es-theme-elementerial
 - Custom theme artwork can be provided for use in the theme.
 1.  Create a folder named `theme-customizations` within the main elementerial-es-de theme folder
 2.  To add custom artwork to:
-    - the modern artwork set create a subfolder named artwork (modern) - `/ES-DE/themes/elementerial-es-de/theme-customizations/artwork (modern)/`
-    - the classic artwork set create a subfolder named artwork (classic) - `/ES-DE/themes/elementerial-es-de/theme-customizations/artwork (classic)/`
+    - the modern artwork set - create a subfolder named artwork (modern) - `/ES-DE/themes/elementerial-es-de/theme-customizations/artwork (modern)/`
+    - the classic artwork set - create a subfolder named artwork (classic) - `/ES-DE/themes/elementerial-es-de/theme-customizations/artwork (classic)/`
 3. Add your custom artwork in .webp format to to this folder named as the shortname of the game system - `<shortname>.webp`
 4. [Optional] To modify the y-axis positioning of the artwork displayed:
    - Create a folder named `metadata-custom` within the `theme-customizations` folder

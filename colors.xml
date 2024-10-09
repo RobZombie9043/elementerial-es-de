@@ -231,13 +231,13 @@
 	<colorScheme name="strawberry-dark,orange-dark,banana-dark,lime-dark,mint-dark,blueberry-dark,grape-dark,bubblegum-dark,cocoa-dark,slate-dark,snes-dark,gameboy-dark,pikachu-dark,redfruits-dark">
         <variables>
 			<fgColor>FFFFFF</fgColor>
-			<bgOpacity>0.6</bgOpacity>
+			<bgOpacity>0.3</bgOpacity>
 		</variables>
     </colorScheme>
 	<colorScheme name="strawberry-light,orange-light,banana-light,lime-light,mint-light,blueberry-light,grape-light,bubblegum-light,cocoa-light,slate-light,snes-light,gameboy-light,pikachu-light,redfruits-light">
         <variables>
 			<fgColor>000000</fgColor>
-			<bgOpacity>0.7</bgOpacity>
+			<bgOpacity>0.2</bgOpacity>
 		</variables>
     </colorScheme>
 </theme>

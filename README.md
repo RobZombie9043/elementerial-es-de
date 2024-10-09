@@ -63,6 +63,26 @@ A port of the [Elementerial](https://github.com/mluizvitor/es-theme-elementerial
    - `19.5:9`
    - `21:9`
 
+## **Theme Customization Options**
+- Custom theme artwork can be provided for use in the theme.
+1.  Create a folder named `theme-customizations`
+2.  To add custom artwork to:
+    - the modern artwork set create a subfolder named artwork (modern) - `/ES-DE/themes/elementerial-es-de/theme-customizations/artwork (modern)/`
+    - the classic artwork set create a subfolder named artwork (classic) - `/ES-DE/themes/elementerial-es-de/theme-customizations/artwork (classic)/`
+3. Add your custom artwork in .webp format to to this folder named as the shortname of the game system - `<shortname>.webp`
+4. [Optional] To modify the y-axis positioning of the artwork displayed:
+   - Create a folder named `metadata-custom` within the `theme-customizations` folder
+   - Create a `<shortname>.xml` file
+   - Add the following code where 0 means align on top and 1 means align at the bottom. Any arbitrary floating point values between 0 and 1 can be used for granular positioning.
+   ```
+   <theme>
+     <variables>
+       <classicCropPos>0.5</classicCropPos>
+       <modernCropPos>0.5</modernCropPos>
+     </variables>
+   </theme>
+   ```
+
 ## **Acknowledgements**
 - Based on original [Elementerial](https://github.com/mluizvitor/es-theme-elementerial) theme by [mluizvitor](https://github.com/mluizvitor/es-theme-elementerial/commits?author=mluizvitor)
 - [Inter Font](https://github.com/rsms/inter) by [rsms](https://github.com/rsms)

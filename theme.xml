@@ -130,6 +130,7 @@ license:      	creative commons CC-BY-NC-SA
 				<pos>0 0</pos>
 				<cropSize>1 0.5</cropSize>
 				<cropPos>0.5 ${modernCropPos}</cropPos>
+				<default>./_inc/systems/${artworkFolder}/_default.webp</default>
 				<path>./_inc/systems/${artworkFolder}/${system.theme}.webp</path>
 				<zIndex>1</zIndex>
 			</image>
@@ -209,6 +210,7 @@ license:      	creative commons CC-BY-NC-SA
 	<variant name="gamelist-textlist-basic, gamelist-textlist-basic-classic">
 		<view name="gamelist">
 			<image name="cover_list">
+				<default>./_inc/systems/${artworkFolder}/_default.webp</default>
 				<path>./_inc/systems/${artworkFolder}/${system.theme}.webp</path>
 				<cropSize>1 0.5</cropSize>
 				<cropPos>0.5 ${modernCropPos}</cropPos>
@@ -366,6 +368,7 @@ license:      	creative commons CC-BY-NC-SA
 	<variant name="gamelist-textlist-detailed, gamelist-textlist-detailed-classic">
 		<view name="gamelist">
 			<image name="cover_list">
+				<default>./_inc/systems/${artworkFolder}/_default.webp</default>
 				<path>./_inc/systems/${artworkFolder}/${system.theme}.webp</path>
 				<cropSize>1 0.5</cropSize>
 				<cropPos>0.5 ${modernCropPos}</cropPos>
@@ -549,6 +552,7 @@ license:      	creative commons CC-BY-NC-SA
 	<variant name="gamelist-grid-small,gamelist-grid-large, gamelist-grid-small-classic,gamelist-grid-large-classic">
 		<view name="gamelist">
 			<image name="cover_list">
+				<default>./_inc/systems/${artworkFolder}/_default.webp</default>
 				<path>./_inc/systems/${artworkFolder}/${system.theme}.webp</path>
 				<cropSize>1 0.5</cropSize>
 				<cropPos>0.5 ${modernCropPos}</cropPos>

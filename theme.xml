@@ -145,6 +145,28 @@ license:      	creative commons CC-BY-NC-SA
 		</view>
 	</variant>
 	
+	<variant name="gamelist-textlist-basic-classic,gamelist-textlist-video-classic,gamelist-textlist-detailed-classic,gamelist-elementflix-classic, gamelist-grid-small-classic,gamelist-grid-large-classic">
+		<view name="system">
+			<image name="cover_list">
+				<origin>0 0</origin>
+				<pos>0 0</pos>
+				<cropSize>1 0.5</cropSize>
+				<cropPos>0.5 ${classicCropPos}</cropPos>
+				<default>./_inc/systems/${artworkFolder}/_default.webp</default>
+				<path>./_inc/systems/${artworkFolder}/${system.theme}.webp</path>
+				<zIndex>1</zIndex>
+			</image>
+			<image name="cover_list_custom">
+				<origin>0 0</origin>
+				<pos>0 0</pos>
+				<cropSize>1 0.5</cropSize>
+				<cropPos>0.5 ${classicCropPos}</cropPos>
+				<path>./theme-customizations/${artworkFolder}/${system.theme}.webp</path>
+				<zIndex>1</zIndex>
+			</image>
+		</view>
+	</variant>
+	
 	<variant name="gamelist-textlist-basic-video,gamelist-textlist-video-video,gamelist-textlist-detailed-video,gamelist-elementflix-video, gamelist-grid-small-video,gamelist-grid-large-video">
 		<view name="system">
 			<video name="carouselVideo">

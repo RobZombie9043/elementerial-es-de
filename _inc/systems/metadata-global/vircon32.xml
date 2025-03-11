@@ -1,0 +1,88 @@
+﻿<theme>
+    <variables>
+        <systemName>Vircon32</systemName>
+        <systemDescription>Vircon32 is a virtual console inspired by classic 16- and 32-bit systems as well as the arcade era.</systemDescription>
+        <systemManufacturer>Carra</systemManufacturer>
+        <systemReleaseYear>2021</systemReleaseYear>
+        <systemReleaseDate>2021</systemReleaseDate>
+        <systemReleaseDateFormated>2021</systemReleaseDateFormated>
+        <systemHardwareType>Engine</systemHardwareType>
+        <systemCoverSize>1-1</systemCoverSize>
+        <systemColor>406270</systemColor>
+        <systemColorPalette1>80B3FF</systemColorPalette1>
+        <systemColorPalette2>00FFFF</systemColorPalette2>
+        <systemColorPalette3>5FD38D</systemColorPalette3>
+        <systemColorPalette4>66FF00</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <language name="ca_ES">
+        <variables>
+            <systemHardwareType>Engine</systemHardwareType>
+        </variables>
+    </language>
+    <language name="de_DE">
+        <variables>
+            <systemHardwareType>Motor</systemHardwareType>
+        </variables>
+    </language>
+    <language name="es_ES">
+        <variables>
+            <systemHardwareType>Motor</systemHardwareType>
+        </variables>
+    </language>
+    <language name="fr_FR">
+        <variables>
+            <systemHardwareType>Moteur</systemHardwareType>
+        </variables>
+    </language>
+    <language name="it_IT">
+        <variables>
+            <systemHardwareType>Motore</systemHardwareType>
+        </variables>
+    </language>
+    <language name="nl_NL">
+        <variables>
+            <systemHardwareType>Motor</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pl_PL">
+        <variables>
+            <systemHardwareType>Silnik</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_BR">
+        <variables>
+            <systemHardwareType>Motor</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ro_RO">
+        <variables>
+            <systemHardwareType>Motor</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ru_RU">
+        <variables>
+            <systemHardwareType>Двигатель</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sv_SE">
+        <variables>
+            <systemHardwareType>Motor</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ja_JP">
+        <variables>
+            <systemHardwareType>エンジン</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ko_KR">
+        <variables>
+            <systemHardwareType>엔진</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_CN">
+        <variables>
+            <systemHardwareType>发动机</systemHardwareType>
+        </variables>
+    </language>
+</theme>

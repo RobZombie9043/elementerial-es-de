@@ -60,6 +60,16 @@ license:      	creative commons CC-BY-NC-SA
 			<opacity>${bgOpacity}</opacity>
 			<zIndex>2</zIndex>
 		</image>
+		<systemstatus name="system-status">
+			<fontPath>${fontRegular}</fontPath>
+			<height>${fontSizeCaption}</height>
+			<color>${fgColor}</color>
+		</systemstatus>
+		<clock name="clock">
+			<fontPath>${fontRegular}</fontPath>
+			<fontSize>${fontSizeCaption}</fontSize>
+			<color>${fgColor}</color>
+		</clock>
 	</view>
 
 	<!--
